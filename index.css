@@ -43,6 +43,7 @@
 .footer {
     background-color:#909090;
     color: #fff;
+    font-size: 14px;
 }
 
 .footer a {
@@ -55,4 +56,26 @@
 
 .footer ul > li {
     list-style: none;
+}
+
+.footer h4 {
+    font-size: 16px;
+}
+
+.fourth {
+    border-top: 1px solid #eee;
+}
+
+.fourth, .fifth {
+    text-align: center;
+    background-color: #f6fbff;
+}
+
+.oi-briefcase {
+    color: #bbb;
+    background-color: #fff;
+    font-size: 50px;
+    padding: 40px;
+    box-shadow: 0 0 0 2px #bbb;
+    border-radius: 50%;
 }
