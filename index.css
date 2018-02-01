@@ -1,0 +1,58 @@
+
+.row {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.navbar img {
+    max-width: 440px;
+}
+
+.first {
+    background-color:#1f333f;
+    color: #fff;
+    background-image: url("images/background-header.jpg");
+}
+
+.second {
+    background-color: #eeeeee;
+}
+
+.first h1 {
+    color: #f1914d;
+    text-transform: uppercase;
+}
+
+.form-head {
+    text-align: center;
+}
+
+#reach-form {
+    max-width: 400px;
+    background-color: #f1914d;
+    padding: 32px 48px;
+    margin: auto;
+}
+
+.third p {
+    max-width: 800px;
+    margin: auto;
+    padding-bottom: 60px;
+}
+
+.footer {
+    background-color:#909090;
+    color: #fff;
+}
+
+.footer a {
+    color: #eee;
+}
+
+.footer ul {
+    padding: 0;
+}
+
+.footer ul > li {
+    list-style: none;
+}
