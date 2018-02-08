@@ -1,22 +1,94 @@
 
-.row {
-    padding-top: 60px;
-    padding-bottom: 60px;
+.signup,
+.logos,
+.testimonials,
+.data,
+.footer-widgets,
+.credits {
+    padding: 50px 0px;
 }
 
+.signup {
+    color: #fff;
+    background: url(images/particle.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: #333;
+}
+
+.signup h2 {
+    margin-top: 24px;
+}
+
+.jumbotron {
+    background: none;
+    text-align: center;
+    max-width: 800px;
+    margin: auto;
+}
+
+.jumbotron p {
+    margin-top: 40px;
+}
+
+.btn-primary {
+    background-color: #000;
+    border-color: #000;
+}
+
+.form-header, form {
+    max-width: 400px;
+    margin: auto;
+}
+
+.form-header {
+    text-align: center;
+}
+
+form {
+    background-color: #82bc00;
+    padding: 48px;
+    color: #fff
+}
 
 .logos {
     background-color: #eee;
 }
 
+.testimonials {
+    background-color: #82bc00;
+    color: #fff;
+}
 
 .testimonials blockquote {
     padding: 30px;
 }
 
+.data {
+    background-color: #fff;
+}
+
+.data p {
+    font-size: 24px;
+    max-width: 800px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
 .footer-widgets,
 .credits {
-    background-color: #cedfd7;
+    background-color: #f6fbff;
+    font-size: 14px;
+    color: #61717a;
+}
+
+.footer-widgets a,
+.credits a,
+.footer-widgets a
+.credits a:hover {
+    color: #61717a;
 }
 
 .footer-widgets img {
@@ -41,5 +113,5 @@
 
 .credits {
     border-top: 1px solid #deeaf2;
-    border-bottom: 10px solid #82bc00;
+    border-bottom: 14px solid #82bc00;
 }
