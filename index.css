@@ -1,5 +1,45 @@
 
 .row {
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+
+.logos {
+    background-color: #eee;
+}
+
+
+.testimonials blockquote {
+    padding: 30px;
+}
+
+.footer-widgets,
+.credits {
+    background-color: #cedfd7;
+}
+
+.footer-widgets img {
+    max-width: 210px;
+}
+
+.footer-widgets ul {
+    padding-left: 0px;
+    list-style: none;
+}
+
+.footer-widgets h4,
+.footer-widgets li {
+    margin-bottom: 10px;
+}
+
+.footer-widgets h4 {
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.credits {
+    border-top: 1px solid #deeaf2;
+    border-bottom: 10px solid #82bc00;
 }
